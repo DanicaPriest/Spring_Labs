@@ -1,6 +1,6 @@
-package mybatis.services;
+package mybatis.CurrentDayandTime.CurrentDayandTime;
 
-import mybatis.model.CurrentDayandTime.CurrentDayandTimeRoot;
+import mybatis.CurrentDayandTime.CurrentDayandTime.CurrentDayandTimeRoot;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

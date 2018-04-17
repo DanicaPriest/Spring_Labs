@@ -1,4 +1,4 @@
-package mybatis.model.CurrentDayandTime;
+package mybatis.CurrentDayandTime.CurrentDayandTime;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
